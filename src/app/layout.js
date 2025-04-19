@@ -13,7 +13,7 @@ const dancingScript = Dancing_Script({
 });
 
 export const metadata = {
-  title: "Para Ana Clara ❤️",
+  title: "❤️ Para Ana Clara ❤️",
   description: "Com carinho de Gabby",
 };
 
